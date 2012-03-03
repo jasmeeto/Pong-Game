@@ -1,3 +1,5 @@
 This is my first game in C++. The game uses classes, although not necessary, to create the paddles and the ball as objects and then implements them throught the use of the Allegro Gaming Library.
 
+The compiled source is available on http://sourceforge.net/projects/cponggame/files/
+
 To run just start Pong.exe and begin the fun. Also, this game is timer-based so it sould run the same on all systems
